@@ -1,1 +1,2 @@
 # TeleCom
+This project aimed to address the issue of customer churn for a major telecom company. By leveraging a Kaggle dataset, the project involved data preprocessing, feature engineering, and the application of the XGBoost Classifier algorithm. One-hot encoding was employed for categorical features, and model performance was evaluated using accuracy score and confusion matrix analysis. The model effectively predicted customer churn, enabling the company to implement proactive retention strategies.
